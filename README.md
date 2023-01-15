@@ -11,8 +11,6 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-G0mes&show_icons=true&theme=tokyonight)
-
 
 
 ## Tecnologias que estou estudando 🧠
