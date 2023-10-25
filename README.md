@@ -22,7 +22,7 @@
 </div>
 <br>
 
-## Tecnologias que irei estudar em breve 👨‍💻🛠️
+## Tecnologias que irei estudar em breve 👨‍💻🛠️ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
