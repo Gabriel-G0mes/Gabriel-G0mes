@@ -11,13 +11,6 @@ Desenvolvedor em formação com base em **Front-End** e foco atual em **Java**, 
 
 ---
 
-## 🧱 Base técnica
-- HTML5, CSS3, JavaScript
-- Versionamento com Git e GitHub
-- Noções de UI/UX com Figma
-
----
-
 ## 🛠️ Tecnologias
 
 ### Front-End
